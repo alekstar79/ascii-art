@@ -2,6 +2,8 @@
 
 ![review](./review.png "ASCII Art")
 
+[DEMO](https://alekstar79.github.io/ascii-art)
+
 ## Install and usage
 
 Installing the script is very simple. Clone or download the repository. Start a local server
